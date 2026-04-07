@@ -1,0 +1,6 @@
+{
+  "name": "carelink-ai-proxy",
+  "version": "1.0.0",
+  "description": "CareLink AI Proxy - Vercel Serverless Function for Claude API",
+  "private": true
+}
